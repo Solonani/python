@@ -12,3 +12,5 @@ elif binb>bina and binb>binc:
     print("Greatest is", b)
 else:
     print("Greatest is", c)
+for r in result:
+   print(r)
