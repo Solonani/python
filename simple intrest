@@ -7,3 +7,4 @@ if SC=='Y' and G=='M':
 elif SC=='Y' and G=='F':
     print("SI=",(p*n*15)/100)
 else:
+print("SI=",(p*n*10)/100)
